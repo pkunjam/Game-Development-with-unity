@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TedTheRoboCollector", "Assembly-CSharp.csproj", "{CC3AEEB4-0F17-B25A-7BB4-E3BC4ADD7CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3AEEB4-0F17-B25A-7BB4-E3BC4ADD7CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3AEEB4-0F17-B25A-7BB4-E3BC4ADD7CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3AEEB4-0F17-B25A-7BB4-E3BC4ADD7CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3AEEB4-0F17-B25A-7BB4-E3BC4ADD7CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
