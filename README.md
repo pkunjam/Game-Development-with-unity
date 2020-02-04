@@ -76,4 +76,4 @@ You are welcome to contribute -
 
 ## License
 
-This project is licensed under GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under GNU GENERAL PUBLIC LICENSE
